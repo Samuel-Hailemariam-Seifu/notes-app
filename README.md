@@ -67,7 +67,7 @@ The app will be available at `http://localhost:3000`
 ## Project Structure
 
 src/
-src/ ├── components/ │ ├── NoteForm.js # Note creation form │ ├── NoteList.js # List of notes │ ├── NoteItem.js # Individual note component │ ├── NoteDetail.js # Detailed note view │ ├── SearchBar.js # Search functionality │ ├── Modal.js # Modal component │ └── DarkModeToggle.js # Dark mode toggle ├── utils/ │ └── exportNotes.js # Note export utilities ├── App.js # Main application component └── index.js # Application entry point
+src/ ├── components/ /n │ ├── NoteForm.js # Note creation form │ ├── NoteList.js # List of notes │ ├── NoteItem.js # Individual note component │ ├── NoteDetail.js # Detailed note view │ ├── SearchBar.js # Search functionality │ ├── Modal.js # Modal component │ └── DarkModeToggle.js # Dark mode toggle ├── utils/ │ └── exportNotes.js # Note export utilities ├── App.js # Main application component └── index.js # Application entry point
 
 
 ## Features in Detail
