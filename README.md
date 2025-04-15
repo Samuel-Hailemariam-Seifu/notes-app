@@ -68,12 +68,19 @@ The app will be available at `http://localhost:3000`
 
 src/
 ├── components/
+
 │   ├── NoteForm.js         # Note creation form
+
 │   ├── NoteList.js         # List of notes
+
 │   ├── NoteItem.js         # Individual note component
+
 │   ├── NoteDetail.js       # Detailed note view
+
 │   ├── SearchBar.js        # Search functionality
+
 │   ├── Modal.js            # Modal component
+
 │   └── DarkModeToggle.js   # Dark mode toggle
 
 ├── utils/
