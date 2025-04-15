@@ -66,8 +66,8 @@ The app will be available at `http://localhost:3000`
 
 ## Project Structure
 
-src/
-src/ ├── components/ 
+src/ 
+├── components/ 
 │ ├── NoteForm.js # Note creation form 
 │ ├── NoteList.js # List of notes 
 │ ├── NoteItem.js # Individual note component 
